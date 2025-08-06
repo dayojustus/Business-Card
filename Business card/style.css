@@ -1,0 +1,11 @@
+body {
+    margin: 20px;
+}
+.Avater {
+    width: 300px;
+}
+
+.card {
+    border: 1px dotted blue;
+    padding: 20px;
+}
